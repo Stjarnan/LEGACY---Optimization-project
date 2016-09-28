@@ -1,0 +1,26 @@
+{
+  "name": "optimization-project",
+  "version": "0.0.1",
+  "description": "A project to optimize this page, reduce http-requests and filesizes",
+  "main": "gulp.js",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stjarnan/Optimization-project.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stjarnan/Optimization-project/issues"
+  },
+  "homepage": "https://github.com/Stjarnan/Optimization-project#readme"
+}
