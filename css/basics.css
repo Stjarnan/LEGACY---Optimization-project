@@ -172,7 +172,35 @@ body {
     height: 50px;
     margin-right: 1rem;
     width: 50px;
+    object-fit: none;
 }
+
+
+.avatar1{
+  object-fit: none;
+  object-position: -6px -127px;
+}
+.avatar2{
+object-position: -139px -68px;
+}
+.avatar3{
+object-position: -69px -64px;
+}
+.avatar4{
+object-position: -5px -62px;
+}
+.avatar5{
+object-position: -140px -3px;
+}
+.avatar6{
+object-position: -75px -2px;
+}
+.avatar7{
+object-position: -7px -4px;
+}
+
+
+
 
 /* Modals */ 
 
@@ -209,7 +237,9 @@ footer .columns {
 footer .social {
     text-align: right;
 }
-footer .social img {
+footer .social #facebook-square,
+footer .social #instagram,
+footer .social #twitter {
     height: 35px;
     width: 35px;
 }
